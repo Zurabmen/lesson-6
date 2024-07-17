@@ -1,0 +1,13 @@
+/*section1*/
+.box-wrapper{
+	width: 400px;
+	height: 400px;
+	background-color: blue;
+	position: relative;
+}
+.mini-box{
+	width: 150px;
+	height: 150px;
+	background-color: yellow;
+	position: absolute;
+}
